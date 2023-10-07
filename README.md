@@ -21,8 +21,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a rel="me" href="https://mastodon.schweren.dev/@torben" target="blank"><img align="center" src="https://seeklogo.com/images/M/mastodon-logo-AAA76BE2CA-seeklogo.com.png" alt="tschweren" height="30" width="30" /></a>
-<a href="https://twitter.com/tschweren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tschweren" height="30" width="40" /></a>
+    <a rel="me" href="https://mastodon.schweren.dev/@torben" target="blank">
+        <img align="center" src="https://seeklogo.com/images/M/mastodon-logo-AAA76BE2CA-seeklogo.com.png" alt="tschweren" height="30" width="30" />
+    </a>
+    <a href="https://twitter.com/tschweren" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tschweren" height="30" width="40" />
+    </a>
+    <a href="https://lazer.ppy.sh/users/3754254" target="blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/512px-Osu%21_Logo_2016.svg.png" alt="tschweren" height="30" width="30" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
