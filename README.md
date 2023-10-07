@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kitt3120](https://github.com/Kitt3120)
 
-- 💬 Ask me about **anime, C#, Java** or **anything IT-related**. _Just don't expect too much knowledge frontend-wise._
+- 💬 Ask me about **Anime, C#, Java, Home Automation, Linux** or **anything IT-related**. <sub>_Just don't expect too much knowledge frontend-wise._</sub>
 
 - 📫 How to reach me
 
