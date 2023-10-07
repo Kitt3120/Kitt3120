@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://mastodon.schweren.dev/@torben" target="blank"><img align="center" src="https://seeklogo.com/images/M/mastodon-logo-AAA76BE2CA-seeklogo.com.png" alt="tschweren" height="30" width="30" /></a>
+<a rel="me" href="https://mastodon.schweren.dev/@torben" target="blank"><img align="center" src="https://seeklogo.com/images/M/mastodon-logo-AAA76BE2CA-seeklogo.com.png" alt="tschweren" height="30" width="30" /></a>
 <a href="https://twitter.com/tschweren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tschweren" height="30" width="40" /></a>
 </p>
 
