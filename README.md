@@ -15,7 +15,11 @@
 
 - 💬 Ask me about **anime, C#, Java** or **anything IT-related**. _Just don't expect too much knowledge frontend-wise._
 
-- 📫 How to reach me **torben@schweren.dev** (Email + Mastodon)
+- 📫 How to reach me
+
+  - **torben@schweren.dev** Email
+  - **schweren.dev** Discord
+  - Or check out my socials below
 
 - ⚡ Fun fact: **[Professional circle clicker for over 10 years](https://lazer.ppy.sh/users/3754254)**
 
