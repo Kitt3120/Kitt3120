@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to soon collaborate on [osu!lazer](https://github.com/ppy/osu)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kitt3120](https://github.com/Kitt3120)
-
 - 💬 Ask me about **Anime, C#, Java, Home Automation, Linux** or **anything IT-related**. <sub>_Just don't expect too much knowledge frontend-wise._</sub>
 
 - 📫 How to reach me
