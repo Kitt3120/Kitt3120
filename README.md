@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kitt3120" alt="kitt3120" /></a> </p>
 
-- 🔭 I’m currently working on [WenigerTorben-Bot](https://github.com/Kitt3120/WenigerTorben-Bot)
+- 🔭 I’m currently working on [rusty-chat](https://github.com/Kitt3120/rusty-chat)
 
 - 🌱 I’m currently learning **Rust** [in this repo](https://github.com/Kitt3120/Following-the-Rust-book)
 
