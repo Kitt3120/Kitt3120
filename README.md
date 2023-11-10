@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kitt3120" alt="kitt3120" /></a> </p>
 
-- 🔭 I’m currently working on [rusty-chat](https://github.com/Kitt3120/rusty-chat)
+- 🔭 I’m working on [rusty-chat](https://github.com/Kitt3120/rusty-chat)
 
-- 🌱 I’m currently learning **Rust** [in this repo](https://github.com/Kitt3120/Following-the-Rust-book)
+- 🌱 I’m learning **Rust** [in this repo](https://github.com/Kitt3120/Following-the-Rust-book)
 
-- 👯 I’m looking to soon collaborate on [osu!lazer](https://github.com/ppy/osu)
+- ❗ I'm interested in [these repositories](https://github.com/stars/Kitt3120/lists/repos-of-interest)
+
+- 👯 I’m looking forward to soon collaborate on [osu!lazer](https://github.com/ppy/osu) and [other projects](https://github.com/stars/Kitt3120/lists/want-to-contribute-to)
 
 - 💬 Ask me about **Anime, C#, Java, Home Automation, Linux** or **anything IT-related**. <sub>_Just don't expect too much knowledge frontend-wise._</sub>
 
