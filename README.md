@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    align="center"
+    src="https://beyond-control.com/community/uploads/monthly_2022_12/lum.thumb.gif.85772d54a5babd3e8e4386d39131f7b5.gif"
+    alt="lum"
+    height="200"
+    width="150"
+  />
+</p>
 <h1 align="center">Hi 👋, I'm Torben</h1>
 <h3 align="center">A developer by passion and vocation from Germany with an interest in Japanese culture 🇩🇪❤️🇯🇵</h3>
 
@@ -13,7 +22,7 @@
 
 - 💬 Ask me about **Anime, Rust, C#, Java, Linux, Home Automation** or just **anything IT-related**. (Except frontend, I suck at that)
 
-- ⚡ Fun fact: **[Professional circle clicker for over 10 years](https://lazer.ppy.sh/users/3754254)**
+- ⚡ Fun fact: **[Circle clicker for over 10 years](https://lazer.ppy.sh/users/3754254)**
 
 ## Contact me
 
@@ -60,7 +69,7 @@
     alt="discord logo"
     height="35"
     width="35"
-/>: schweren.dev
+  />: schweren.dev
 </p>
 
 ## Languages and Tools
