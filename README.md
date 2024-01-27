@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Torben</h1>
-<h3 align="center">A developer by passion and vocation from Germany with a thing for Japanese culture 🇩🇪❤️🇯🇵</h3>
+<h3 align="center">A developer by passion and vocation from Germany with an interest in Japanese culture 🇩🇪❤️🇯🇵</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kitt3120&label=Profile%20views&color=0e75b6&style=flat" alt="kitt3120" /> </p>
 
