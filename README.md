@@ -16,7 +16,7 @@
 
 ## Overview
 
-- 🔭 I’m currently working on [lum](https://github.com/Kitt3120/lum), a Discord bot written in Rust
+- 🔭 I’m currently working on [lum]([https://github.com/Kitt3120/lum](https://github.com/lum-rs/lum)), a Discord framework/bot written in Rust
 
 - 👯 I’m helping [osu!lazer](https://github.com/ppy/osu)
 
